@@ -19,8 +19,10 @@
 - Budgeted KPI targets (A.K.A. Budget)
 
 Later on, after having registered a significant amount of KPI reviews, Hypothesis Testing was used to test the following Hypothesis.
-Null Hypothesis: Forecast Error cannot be decreased by Reviewing it.
-Alternate Hypothesis: Forecast Error can be decreased by Reviewing it.
+
+**Null Hypothesis:** Forecast Error cannot be decreased by Reviewing it.
+
+**Alternate Hypothesis:** Forecast Error can be decreased by Reviewing it.
 
 ### Project Overview:
 1. Input and Auxiliar Data Pipeline - Design a data pipeline collecting all the data needed and presenting it in a manner which is easy for the Partner Manager to understand.
