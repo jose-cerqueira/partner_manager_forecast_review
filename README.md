@@ -1,6 +1,7 @@
 # partner_manager_forecast_review
 
 **Descprition:** Allows for Partner Manager to review KPI Forecast, when they know of events.
+
 **Challenge:** As a Partner Manager, I want to be able to submit a review of the value I get from the KPI forecast.
 
 ### KPI (Key Performance Indicators):
