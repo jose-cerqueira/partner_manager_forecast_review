@@ -22,9 +22,11 @@ Null Hypothesis: Forecast Error cannot be decreased by Reviewing it.
 Alternate Hypothesis: Forecast Error can be decreased by Reviewing it.
 
 ### Project Overview:
-1. Design a data pipeline collecting all the data needed and presenting it in a manner which is easy for the Partner Manager to understand.
-2. Build an interface which allows for the Partner Manager to visualize the collected data and submit feedback.
-3. Design a data pipeline that collects this input on a monthly basis.
-4. Perform Hypothesis Testing on the collected data.
+1. Input and Auxiliar Data Pipeline - Design a data pipeline collecting all the data needed and presenting it in a manner which is easy for the Partner Manager to understand.
+2. Interface - Build an interface which allows for the Partner Manager to visualize the collected data and submit feedback.
+3. Review Collection Pipeline - Design a data pipeline that collects this input on a monthly basis.
+4. Process Monitoring Data Pipeline and Looker Dashboard - Allowed to monitor the overall process.
+5. Perform Hypothesis Testing on the collected data.
 
-### 1. Input and Auxiliar Data Pipeline
+### Process Data Map Overview
+![image](https://user-images.githubusercontent.com/101900632/208505152-6bf1b9c3-af52-479f-b9fb-201b960d86eb.png)
