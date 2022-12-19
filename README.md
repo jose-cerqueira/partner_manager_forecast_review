@@ -36,3 +36,5 @@ Alternate Hypothesis: Forecast Error can be decreased by Reviewing it.
 ### Interface Overview
 ![image](https://user-images.githubusercontent.com/101900632/208507205-84c2fe58-64e0-4493-9656-c92af0eef1db.png)
 
+### Looker Dashboard Overview
+![Screenshot (711)](https://user-images.githubusercontent.com/101900632/208508135-f233758d-3c10-4cf4-81c6-612d4e92ce69.png)
