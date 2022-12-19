@@ -14,7 +14,7 @@
 - Partner Manager Review
 
 ### Auxiliar data (Data used in order to guide Partner Manager decision):
-- Historic KPI perfomance (A.K.A. Actuals)
+- Historic KPI perfomance (A.K.A. Actuals and Previous Year)
 - Budgeted KPI targets (A.K.A. Budget)
 
 Later on, after having registered a significant amount of KPI reviews, Hypothesis Testing was used to test the following Hypothesis.
@@ -33,4 +33,6 @@ Alternate Hypothesis: Forecast Error can be decreased by Reviewing it.
 
 ### To take a look at the queries used on steps 1-4 as well as Python code used for step 5, navigate through the files on the repository.
 
+### Interface Overview
+![image](https://user-images.githubusercontent.com/101900632/208507205-84c2fe58-64e0-4493-9656-c92af0eef1db.png)
 
